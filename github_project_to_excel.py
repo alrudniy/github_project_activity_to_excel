@@ -8,9 +8,9 @@ Usage:
     
     python github_project_to_excel.py --owner <org_or_user> --project <project_number> [--output output.xlsx] [--user]
     
-    python github_project_to_excel.py --owner drew-csci --project 6 --output project_opportunity_20260323.xlsx
-    python github_project_to_excel.py --owner drew-csci --project 5 --output project_minecraft_20260323.xlsx
-    python github_project_to_excel.py --owner drew-csci --project 7 --output project_discovery_20260323.xlsx
+    python github_project_to_excel.py --owner drew-csci --project 6 --output project_opportunity_20260514.xlsx
+    python github_project_to_excel.py --owner drew-csci --project 5 --output project_minecraft_20260514.xlsx
+    python github_project_to_excel.py --owner drew-csci --project 7 --output project_discovery_20260514.xlsx
     
 Requirements:
     pip install requests openpyxl
